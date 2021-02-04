@@ -19,6 +19,7 @@
     "quotes": ["error", "single"],
     "no-console": "off",
     "semi": ["error", "always"],
+    "no-plusplus": "off",
     "import/no-extraneous-dependencies": ["off", { "devDependencies": false }]
   },
   "env": {
